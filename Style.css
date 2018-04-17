@@ -1,0 +1,15 @@
+#myProgress {
+    width: 100%;
+    background-color: #c6c6c6;
+}
+#myBar {
+    width: 1%;
+    height: 30px;
+    background-color: #28ffbb;
+}
+body{
+ background-image: url("img1.jpg");
+ background-attachment: fixed;
+ background-size: cover;
+ background-position: center;
+}
