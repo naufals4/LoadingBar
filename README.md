@@ -1,1 +1,17 @@
-# loadingbar
+<!DOCTYPE html>
+<html>
+<!--Loading-->
+<title>Peogress Bar</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="Style.css">
+<script type="text/javascript" src="Javascript.js"></script>
+<body>
+
+<div class="w3-container">
+<div id="myProgress">
+  <div id="myBar"></div>
+</div>
+<br>
+<button onclick="move()">Click Me</button>
+</body>
+</html>
